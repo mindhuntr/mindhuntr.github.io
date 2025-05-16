@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/mindhunter/projects/noumenalnotions.space",
+	"sourceRoot": "/home/mindhunter/projects/hugo_site",
 	"sources": [
 		"css/base.scss",
 		"themes/terminal/assets/css/variables.scss",
