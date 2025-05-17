@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/mindhunter/projects/hugo_site",
+	"sourceRoot": "/home/mindhunter/projects/hugo_template",
 	"sources": [
 		"css/base.scss",
 		"themes/terminal/assets/css/variables.scss",

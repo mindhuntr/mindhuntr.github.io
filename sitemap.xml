@@ -14,6 +14,12 @@
     <loc>https://noumenalnotions.space/blogs/should_you_use_the_commandline/</loc>
     <lastmod>2025-05-04T09:02:04+05:30</lastmod>
   </url><url>
+    <loc>https://noumenalnotions.space/tags/</loc>
+    <lastmod>2025-05-04T09:02:04+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/unix/</loc>
+    <lastmod>2025-05-04T09:02:04+05:30</lastmod>
+  </url><url>
     <loc>https://noumenalnotions.space/blogs/introduction_to_ssh/</loc>
     <lastmod>2025-04-27T09:01:55+05:30</lastmod>
   </url><url>
@@ -21,6 +27,9 @@
     <lastmod>2025-04-23T09:01:46+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/essays/</loc>
+    <lastmod>2025-04-16T21:45:26+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/philosophy/</loc>
     <lastmod>2025-04-16T21:45:26+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/essays/that_which_we_seek/</loc>
@@ -38,7 +47,13 @@
     <loc>https://noumenalnotions.space/blogs/weechat_relay/</loc>
     <lastmod>2024-10-24T09:01:16+05:30</lastmod>
   </url><url>
+    <loc>https://noumenalnotions.space/tags/musings/</loc>
+    <lastmod>2024-05-03T09:02:32+05:30</lastmod>
+  </url><url>
     <loc>https://noumenalnotions.space/blogs/musings_about_the_devil/</loc>
+    <lastmod>2024-05-03T09:02:32+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/psychology/</loc>
     <lastmod>2024-05-03T09:02:32+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/essays/quest_for_normalcy/</loc>
@@ -50,8 +65,14 @@
     <loc>https://noumenalnotions.space/blogs/thoughts_on_normalcy/</loc>
     <lastmod>2024-02-21T09:02:22+05:30</lastmod>
   </url><url>
+    <loc>https://noumenalnotions.space/tags/anime/</loc>
+    <lastmod>2024-01-07T22:14:01+05:30</lastmod>
+  </url><url>
     <loc>https://noumenalnotions.space/essays/vinland_saga/</loc>
     <lastmod>2024-01-07T22:14:01+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/religion/</loc>
+    <lastmod>2022-12-29T22:14:00+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/essays/religious_ruminations/</loc>
     <lastmod>2022-12-29T22:14:00+05:30</lastmod>
@@ -61,6 +82,9 @@
   </url><url>
     <loc>https://noumenalnotions.space/essays/a_requiem_for_the_past/</loc>
     <lastmod>2021-07-13T22:13:59+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/literature/</loc>
+    <lastmod>2021-03-31T22:14:00+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/essays/the_allure_to_darkness/</loc>
     <lastmod>2021-03-31T22:14:00+05:30</lastmod>
@@ -75,7 +99,5 @@
     <lastmod>2020-02-28T22:14:00+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/categories/</loc>
-  </url><url>
-    <loc>https://noumenalnotions.space/tags/</loc>
   </url>
 </urlset>
