@@ -227,12 +227,12 @@ You would most likely see an output quite similar to this:</p>
 <p>The -i flag denotes the path to the public key that is to be copied to the server. This command only works if the secure_ssh_key.pub file is in the current directory. If the keys are stored elswhere, change to that directory or simply provide the full path to the -i flag. Once the command is executed, the user will be able to authenticate to the server without a password using the command</p>
 <p><code>ssh -i secure_ssh_key martian@jetbrains.org</code></p>
 <p>The -i flag denotes the path to the private key that was generated. If the name of the key was left to the default, the -i flag is most likely not required. However if the name has been changed, -i must be specified to instruct the command which private key to use. Some users might copy the same public key for all their server while others might generate a new one for each of them. Regardless of your choice, it might be wise to use the ~/.ssh/config file to manage all your different servers and keys. Each entry in the file takes the form of:</p>
-<p>Host jetb
-HostName jetbrains.org
-User martian
-Port 22
-IdentityFile ~/.ssh/secure_ssh_key</p>
-<p>Host refers to the term I would use to connect to the server. Hostname is the actual domain or the ip of the server. User and Port are self explanatory and IdentityFile is the path to my private key. With this entry in ~/.ssh/config I can simply connect to jetbrains.org with the following command:</p>
+<pre tabindex="0"><code>Host jetb
+	HostName jetbrains.org
+	User martian
+	Port 22
+	IdentityFile ~/.ssh/secure_ssh_key
+</code></pre><p>Host refers to the term I would use to connect to the server. Hostname is the actual domain or the ip of the server. User and Port are self explanatory and IdentityFile is the path to my private key. With this entry in ~/.ssh/config I can simply connect to jetbrains.org with the following command:</p>
 <p><code>ssh jetb</code></p>
 <p>This would automatically look for the host &ldquo;jetb&rdquo; in config file and apply all the specifications required to make the connection. Although programs like anydesk allow you to perform similar functions through a GUI, using ssh is certainly more immersive. With a few keystrokes you are literally inside a computer that could be millions of miles away and any initial experience of that is nothing less than magical.</p>
 <p>For a novice user ssh might be his first introduction into the world of UNIX so the syntax might seem a little cryptic at first. I think it is important to understand that each command and its syntax have a clear underlying logic to them that can be applied to other commands. The arguments and flags might vary but the essential structure itself remains the same. So this is partly not just an introduction to ssh but also to how commands themselves are in the UNIX world.</p>
