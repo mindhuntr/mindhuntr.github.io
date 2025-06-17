@@ -1,0 +1,40 @@
+baseURL = 'https://noumenalnotions.space'
+languageCode = 'en-us'
+title = 'Noumenal Notions'
+theme = 'terminal'
+
+[[menu.main]]
+identifier = "blogs"
+name = "Blog"
+url = "/blogs/"
+weight = 1
+
+[[menu.main]]
+identifier = "essays"
+name = "Essays"
+url = "/essays/"
+weight = 1
+
+[[menu.main]]
+identifier = "about"
+name = "About"
+url = "/about/"
+weight = 1
+
+[[menu.main]]
+ identifier = "rss"
+ name = "RSS"
+ url = "/index.xml"
+ weight = 99
+
+[params] 
+themeColor = "red"
+showMenuItems = 4
+mainSections = [ "blogs", "essays", "about" ]
+autoCover = true
+readingTime = true
+
+
+[languages.en.params.logo]
+logoText = "Noumenal Notions"
+logoHomeLink = "/"

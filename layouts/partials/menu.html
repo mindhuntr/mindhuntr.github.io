@@ -1,0 +1,104 @@
+<nav class="navigation-menu">
+  <ul class="navigation-menu__inner menu--desktop">
+    {{ if or $.Site.Params.showMenuItems ( eq .Site.Params.showMenuItems 0 ) }}
+      {{ range first $.Site.Params.showMenuItems $.Site.Menus.main }}
+        {{ if not .HasChildren }}
+          {{ if eq .Identifier "rss" }}
+              <li style="margin-left:auto; align-items: bottom;">
+                <a href="{{ .URL }}" {{ if .Params.NewTab }} target="_blank" {{ end }} style="display: flex; align-items: center;">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: inline-block; align-items: bottom;">
+                    <path d="M4 11a9 9 0 0 1 9 9" />
+                    <path d="M4 4a16 16 0 0 1 16 16" />
+                    <circle cx="5" cy="19" r="1" />
+                  </svg>
+                </a>
+              </li>
+            {{ else }}
+              <li><a href="{{ .URL }}" {{ if .Params.NewTab }} target="_blank" {{ end }}>{{ .Name }}</a></li>
+            {{ end }}
+            </a>
+          </li>
+        {{ else }}
+        <li>
+          <ul class="menu">
+            <li class="menu__trigger">
+              {{ if eq .Identifier "rss" }}
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-label="RSS">
+                  <path d="M1.5 1a.5.5 0 0 0 0 1c6.351 0 11.5 5.149 11.5 11.5a.5.5 0 0 0 1 0C14 6.648 9.352 2 1.5 1z"/>
+                  <path d="M1 4a.5.5 0 0 0 0 1c5.523 0 10 4.477 10 10a.5.5 0 0 0 1 0C12 9.477 6.523 4 1 4z"/>
+                  <path d="M2 9a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
+                </svg>
+              {{ else }}
+                {{ .Name }}&nbsp;▾
+              {{ end }}
+            </li>
+            <li>
+              <ul class="menu__dropdown">
+                {{ range .Children  }}
+                  <li><a href="{{ .URL }}" {{ if .Params.NewTab -}} target="_blank" {{- end }}>{{ .Name }}</a></li>
+                {{ end }}  
+              </ul>
+            </li>
+          </ul>
+        </li>
+        {{ end }}
+      {{ end }}
+      {{ if gt (len $.Site.Menus.main) $.Site.Params.showMenuItems }}
+        <li>
+          <ul class="menu">
+            <li class="menu__trigger">{{ $.Site.Params.MenuMore }}&nbsp;▾</li>
+            <li>
+              <ul class="menu__dropdown">
+                {{ range last (sub (len $.Site.Menus.main) $.Site.Params.showMenuItems) $.Site.Menus.main }}
+                  {{ if not .HasChildren }}
+                    <li>
+                      <a href="{{ .URL }}" {{ if .Params.NewTab -}} target="_blank" {{- end }}>
+                        {{ if eq .Identifier "rss" }}
+                          <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-label="RSS">
+                            <path d="M1.5 1a.5.5 0 0 0 0 1c6.351 0 11.5 5.149 11.5 11.5a.5.5 0 0 0 1 0C14 6.648 9.352 2 1.5 1z"/>
+                            <path d="M1 4a.5.5 0 0 0 0 1c5.523 0 10 4.477 10 10a.5.5 0 0 0 1 0C12 9.477 6.523 4 1 4z"/>
+                            <path d="M2 9a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
+                          </svg>
+                        {{ else }}
+                          {{ .Name }}
+                        {{ end }}
+                      </a>
+                    </li>
+                  {{ else }}
+                    <li class="menu__subdrop--title">▾&nbsp;{{ .Name }}</li>
+                    <li>
+                      <ul class="menu__subdrop--list">
+                        {{ range .Children  }}
+                          <li><a href="{{ .URL }}" {{ if .Params.NewTab -}} target="_blank" {{- end }}>{{ .Name }}</a></li>
+                        {{ end }}  
+                      </ul>
+                    </li>
+                  {{ end }}
+                {{ end }}
+              </ul>
+            </li>
+          </ul>
+        </li>
+      {{ end }}
+    {{ else }}
+      {{ range $.Site.Menus.main }}
+        {{ if not .HasChildren }}
+          <li>
+            <a href="{{ .URL }}" {{ if .Params.NewTab -}} target="_blank" {{- end }}>
+              {{ if eq .Identifier "rss" }}
+                <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16" aria-label="RSS">
+                  <path d="M1.5 1a.5.5 0 0 0 0 1c6.351 0 11.5 5.149 11.5 11.5a.5.5 0 0 0 1 0C14 6.648 9.352 2 1.5 1z"/>
+                  <path d="M1 4a.5.5 0 0 0 0 1c5.523 0 10 4.477 10 10a.5.5 0 0 0 1 0C12 9.477 6.523 4 1 4z"/>
+                  <path d="M2 9a1 1 0 1 0 0 2 1 1 0 0 0 0-2z"/>
+                </svg>
+              {{ else }}
+                {{ .Name }}
+              {{ end }}
+            </a>
+          </li>
+        {{ end }}
+      {{ end }}
+    {{ end }}
+  </ul>
+</nav>
+
