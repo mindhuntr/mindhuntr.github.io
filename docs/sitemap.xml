@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://noumenalnotions.space/blogs/</loc>
+    <lastmod>2025-06-17T20:18:14+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/irc/</loc>
+    <lastmod>2025-06-17T20:18:14+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/blogs/old_school_socializing/</loc>
+    <lastmod>2025-06-17T20:18:14+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/</loc>
+    <lastmod>2025-06-17T20:18:14+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/unix/</loc>
+    <lastmod>2025-06-17T20:18:14+05:30</lastmod>
+  </url><url>
     <loc>https://noumenalnotions.space/tags/art/</loc>
     <lastmod>2025-05-18T13:06:44+05:30</lastmod>
   </url><url>
@@ -14,22 +29,13 @@
     <loc>https://noumenalnotions.space/tags/philosophy/</loc>
     <lastmod>2025-05-18T13:06:44+05:30</lastmod>
   </url><url>
-    <loc>https://noumenalnotions.space/tags/</loc>
-    <lastmod>2025-05-18T13:06:44+05:30</lastmod>
-  </url><url>
     <loc>https://noumenalnotions.space/about/</loc>
     <lastmod>2025-05-15T20:58:26+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/</loc>
     <lastmod>2025-05-15T20:58:26+05:30</lastmod>
   </url><url>
-    <loc>https://noumenalnotions.space/blogs/</loc>
-    <lastmod>2025-05-04T09:02:04+05:30</lastmod>
-  </url><url>
     <loc>https://noumenalnotions.space/blogs/should_you_use_the_commandline/</loc>
-    <lastmod>2025-05-04T09:02:04+05:30</lastmod>
-  </url><url>
-    <loc>https://noumenalnotions.space/tags/unix/</loc>
     <lastmod>2025-05-04T09:02:04+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/blogs/introduction_to_ssh/</loc>
