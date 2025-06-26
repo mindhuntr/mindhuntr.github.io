@@ -2,6 +2,7 @@ baseURL = 'https://noumenalnotions.space'
 languageCode = 'en-us'
 title = 'Noumenal Notions'
 theme = 'terminal'
+publishDir = 'docs'
 
 [[menu.main]]
 identifier = "blogs"
