@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Noumenal Notions</title>
-    <link>https://noumenalnotions.space/</link>
+    <link>http://localhost:1313/</link>
     <description>&lt;no value&gt;</description>
     <language>en</language>
-    <atom:link href="https://noumenalnotions.space/tags/psychology/" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/psychology/" rel="self" type="application/rss+xml" />
     <generator>Hugo</generator>
 
     
     <item>
       <title>The AI Hype</title>
-      <link>https://noumenalnotions.space/blogs/ai_hype/</link>
-      <guid>https://noumenalnotions.space/blogs/ai_hype/</guid>
+      <link>http://localhost:1313/blogs/ai_hype/</link>
+      <guid>http://localhost:1313/blogs/ai_hype/</guid>
       <pubDate>Thu, 26 Jun 2025 09:48:15 IST</pubDate>
       <description>&lt;p&gt;In a previous blog of mine on Linux, I talk about how the commonplace ignorance towards technology is becoming more detrimental with each day. This is an idea that one of my favourite writers Neal Stephenson introduced in his essay &amp;ldquo;&lt;a href=&#34;https://web.stanford.edu/class/cs81n/command.txt&#34;&gt;In the Beginning was the Command Line&lt;/a&gt;&amp;rdquo;. To provide a brief summary, the essay outlines the development of major operating systems and reflects on how since the inception of the &amp;ldquo;GUI&amp;rdquo;, end users have come to increasingly relinquish the control they have over computers. Ease of use always entails a certain amount of ignorance and sometimes it is warranted. But when this interface, which is supposed to facilitate unmitigated communication, falsifies or subtly leads you towards performing a specific task, it becomes something else entirely.&lt;/p&gt;
 &lt;p&gt;I have found this frame of reference extremely useful in discerning between good and bad software. If a particular program strives to be transparent and fulfills its task as effectively as possible, I usually consider it well written. Recently I have been exposed to a fair bit of discourse surrounding AI which prompted me to evaluate it along these lines. While some regard the technology to be revolutionary, others dismiss it altogether on the basis of describing AI to be nothing more than a glorified auto complete.&lt;/p&gt;
@@ -25,8 +25,8 @@
     
     <item>
       <title>Old School Socializing</title>
-      <link>https://noumenalnotions.space/blogs/old_school_socializing/</link>
-      <guid>https://noumenalnotions.space/blogs/old_school_socializing/</guid>
+      <link>http://localhost:1313/blogs/old_school_socializing/</link>
+      <guid>http://localhost:1313/blogs/old_school_socializing/</guid>
       <pubDate>Tue, 17 Jun 2025 20:18:14 IST</pubDate>
       <description>&lt;p&gt;Human interaction has taken many forms since the dawn of the internet. From the humble beginnings of electronic mails, we now live in an era of instant messaging where the experience of communication afforded by platforms like Whatsapp or Telegram is nothing short of seamless. Provided that you have an account in these services, they allow you to call, text and even share any kind of multimedia content to another person using the same service. There are also other platforms like X (formerly Twitter) or Reddit where the structure of interaction is of a different kind. Instead of talking with people you already know, these platforms widen your exposure by allowing you to follow whoever you want, serving content based on your interests and preferences. Reddit, in particular, allows a user to subscribe and follow a &amp;ldquo;subreddit&amp;rdquo; where people come together to talk about a specific area of interest.&lt;/p&gt;
 &lt;p&gt;Of course, it would be rather naive to assume that this is all there is to the picture. The recent decisions taken by some of these platforms is a testament to how they have come to corrupt regular user experience. Either by aggressively pushing ads or censoring posts under the pretense of dubious regulations, such platforms have come to serve content that has little to no relevance to actual user preferences. I feel that most of these digital places which now connect billions of users all over the world have entirely forgotten the purpose of their existence. Their contemporary allure consists entirely of the sheer quantity of users they host, rendering meaningful exchange of ideas into a distant memory.&lt;/p&gt;
@@ -40,8 +40,8 @@
     
     <item>
       <title>On the Necessity of Mediation</title>
-      <link>https://noumenalnotions.space/essays/on_the_necessity_of_mediation/</link>
-      <guid>https://noumenalnotions.space/essays/on_the_necessity_of_mediation/</guid>
+      <link>http://localhost:1313/essays/on_the_necessity_of_mediation/</link>
+      <guid>http://localhost:1313/essays/on_the_necessity_of_mediation/</guid>
       <pubDate>Sun, 18 May 2025 13:06:44 IST</pubDate>
       <description>&lt;p&gt;&lt;em&gt;This is a continuation of a previous essay I have written titled That Which We Seek&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;My encounter with the works of Kant and Hume thrust me in a direction I seldom anticipated. Although I was acquainted with the idea of the &amp;ldquo;unknowable&amp;rdquo; written about in many great religions and myths, somehow Kant&amp;rsquo;s formulation of the noumenon made it for me a living reality. Something we can no longer evade under the pretext of dismissing age old superstitions because Kant justified its existence through purely rational means. However I remained unconvinced that it was simply the idea of the &amp;ldquo;unknowable&amp;rdquo; that had gripped me so tenaciously. Notwithstanding the fact that Kant provided many arguments vying for the noumenal world, it was still unclear what relevance it had in our earthly pursuits. By delineating the frontiers of human knowledge, Kant has once and for all given us the map beyond which no pursuit of truth could ever take place. And this seems to be its only consequence. The unknowable permeates all of life and despite our most ardent efforts, we shall forever remain ignorant of the true nature of the world.&lt;/p&gt;
@@ -58,8 +58,8 @@
     
     <item>
       <title>Should You Use the Commandline?</title>
-      <link>https://noumenalnotions.space/blogs/should_you_use_the_commandline/</link>
-      <guid>https://noumenalnotions.space/blogs/should_you_use_the_commandline/</guid>
+      <link>http://localhost:1313/blogs/should_you_use_the_commandline/</link>
+      <guid>http://localhost:1313/blogs/should_you_use_the_commandline/</guid>
       <pubDate>Sun, 04 May 2025 09:02:04 IST</pubDate>
       <description>&lt;p&gt;A large part of Linux might seem daunting to a novice user because it involves the command line. Unlike Windows or MacOS where the graphical interface is intertwined with the operating system itself, Linux&amp;rsquo;s GUI is simply another package that is installed. The system can function just the same without it because at its core it relies on something called &amp;ldquo;tty&amp;rdquo; to communicate with the user. Essentially ttys are virtual emulations of an old device called teletype which was used as one of the first input/output mechanism for computers. Although originally users communicated with computers primarily through text, we have come to replace this with a more appealing visual interface as it was easier to learn and navigate.&lt;/p&gt;
 &lt;p&gt;This course of events merits little explanation because using the tty required a reasonable grasp of commands and how the system itself functioned. The general public would not have been particularly enticed by the necessity of having to learn commands and syntax just so that they could use these machines. Most operating systems, as a result, have come to entirely replace this mechanism with a visual interface, making tty, even if it existed in certain systems, only a vestige of the past. Linux, on the other hand, still retained this part of history. One of the first things you would see when you install a minimal Linux distribution is just a black screen with a blinking white cursor, patiently waiting for you to programmatically express your will. Graphical interfaces are installed on top of this but you could still communicate with your system even in the absence of such mediation just like how you would 60 years ago.&lt;/p&gt;
@@ -74,8 +74,8 @@
     
     <item>
       <title>Introduction to SSH</title>
-      <link>https://noumenalnotions.space/blogs/introduction_to_ssh/</link>
-      <guid>https://noumenalnotions.space/blogs/introduction_to_ssh/</guid>
+      <link>http://localhost:1313/blogs/introduction_to_ssh/</link>
+      <guid>http://localhost:1313/blogs/introduction_to_ssh/</guid>
       <pubDate>Sun, 27 Apr 2025 09:01:55 IST</pubDate>
       <description>&lt;p&gt;SSH is a word that you might often see thrown around when talking about servers and connections. It is sometimes used as a noun in sentences but also as a verb. Its colloquial and sometimes unconventional usage in certain contexts might leave you confused on what exactly it means. Is it a program or does it denote an action that we do? Well, its technically the former. SSH abbreviates to &amp;ldquo;Secure Shell&amp;rdquo; and it is a program written by Tatu Ylonen to serve as a replacement to the telnet program. Ever since the early days of computing, users often found it necessary to connect to another computer from their local machine. This computer, often called a server, had specific pathways or ports open for users to establish a connection if they had the proper credentials. Telnet was widely used in these early stages but one of its biggest problems was that it transmitted all data in clear text.&lt;/p&gt;
 &lt;p&gt;This essentially meant that any malicious actor sniffing the traffic could not only intercept the credentials of the user but also any information that was being passed to and fro. Telent had to be relegated to the past primarily for this reason which made way for its faster and more secure replacement, SSH. The Secure Shell program brought in several mechanisms to address the limitations of telnet. It introduced asymmetric encryption so that all the traffic remained indecipherable. It also protected the integrity of the data that was being transmitted, while also providing alternate ways of authentication. Within a few years of its inception, ssh was adopted worldwide as the de facto standard to establish connections to servers. However unlike its daunting capabilities, using ssh is quite straightforward.&lt;/p&gt;
@@ -118,8 +118,8 @@ You would most likely see an output quite similar to this:&lt;/p&gt;
     
     <item>
       <title>What is a Linux Distribution?</title>
-      <link>https://noumenalnotions.space/blogs/what_is_a_distribution/</link>
-      <guid>https://noumenalnotions.space/blogs/what_is_a_distribution/</guid>
+      <link>http://localhost:1313/blogs/what_is_a_distribution/</link>
+      <guid>http://localhost:1313/blogs/what_is_a_distribution/</guid>
       <pubDate>Wed, 23 Apr 2025 09:01:46 IST</pubDate>
       <description>&lt;p&gt;If you have been persuaded by my argument to use Linux or atleast to see for yourself if any of my comparisons hold water, perhaps the first confusion that might arise is why are there so many flavours of Linux? I had mentioned previously that &amp;ldquo;Linux&amp;rdquo; strictly speaking in and of itself is not an operating system. What we refer to as Linux is only the kernel which essentially is the core of an operating system on top of which other utilities are added to make it useable. These utilities, in our context, belong to the GNU (GNU is Not UNIX) foundation which incorporated the Linux kernel to produce what is properly called as the GNU/Linux operating system.&lt;/p&gt;
 &lt;p&gt;To digress a little, the GNU foundation was started by Richard Stallman an American programmer who wanted to create an operating system like UNIX without any of its proprietary code. Stallman had started his foundation to rewrite most of the core utilities found in UNIX under a license where the software could be freely and openly distributed. The foundation, however, was persistently troubled by the development of a proper kernel until Linus Trovalds entered the picture, with his new pet project. Perhaps through luck or sheer happenstance, the meeting of both these projects birthed one of the most influential operating systems to have existed.&lt;/p&gt;
@@ -133,8 +133,8 @@ You would most likely see an output quite similar to this:&lt;/p&gt;
     
     <item>
       <title>That Which We Seek</title>
-      <link>https://noumenalnotions.space/essays/that_which_we_seek/</link>
-      <guid>https://noumenalnotions.space/essays/that_which_we_seek/</guid>
+      <link>http://localhost:1313/essays/that_which_we_seek/</link>
+      <guid>http://localhost:1313/essays/that_which_we_seek/</guid>
       <pubDate>Wed, 16 Apr 2025 21:45:26 IST</pubDate>
       <description>&lt;p&gt;It has become unfashionable to use religious language to describe any human experience. I believe the disrepute religion has fallen into over time is not entirely due to prejudice or blind disdain. It was widely felt that the understanding once afforded by the frameworks of faith was subordinate to that of reason. I have found myself in the crossroads of both these sides, unable to give up one for the other. However I am still far more sympathetic to the pursuit of truth and prefer its uncertainty to the comfort of staunch belief. Yet despite such sympathies, I have also found that I take recourse to mystical notions when I try to grapple with problems of deep significance. Words belonging to the religious fold such as &amp;ldquo;curse&amp;rdquo; and &amp;ldquo;sin&amp;rdquo; seemed to me animated despite my recognition of its dubious metaphysical foundations. It seemed natural to ask what was so special about these words that they often impressed themselves upon me. And to ask whenever I pursued a line of thought deep enough why did I often reach a point where language and rationality ceased to be the luminaries they once were. At the deepest of my reflections, I was invariably surrounded by a blackness where no differentiation existed. Where no categories could be drawn. Where no thought could arise in solid footing. I sought refuge in these arcane words because they were the closest forms of expression I could find in communicating something so real and yet so nebulous. I could not see or touch this blackness but it certainly underpinned all of what I thought or felt.&lt;/p&gt;
 &lt;p&gt;As far as my understanding of knowledge was concerned, the source of this experience seemed atleast partially comprehensible. Observations that we make of the world and of ourselves are fundamentally tentative. A philosopher of great renown named David Hume, coined this as the problem of induction. He demonstrated, through reasoning, that our observation of event B followed by event A does not necessarily indicate a causal relationship between them. Despite observing both of these events follow one an other, there still exists possibilities of observation that might entirely contradict all previous knowledge of those events. Therefore any statement that posits causality is by nature an assumption. An assumption that holds water in our daily lives but an assumption nonetheless. Accepting this proposition entailed a defeat in the quest to achieve knowledge that was certain. If statements based on observations, despite being validated for millenia, could still be open to contradiction, then is there anything that is certain at all?&lt;/p&gt;
@@ -151,8 +151,8 @@ You would most likely see an output quite similar to this:&lt;/p&gt;
     
     <item>
       <title>Why Use Linux?</title>
-      <link>https://noumenalnotions.space/blogs/why_use_linux/</link>
-      <guid>https://noumenalnotions.space/blogs/why_use_linux/</guid>
+      <link>http://localhost:1313/blogs/why_use_linux/</link>
+      <guid>http://localhost:1313/blogs/why_use_linux/</guid>
       <pubDate>Tue, 25 Mar 2025 21:41:29 IST</pubDate>
       <description>&lt;h2 id=&#34;a-dismal-state-of-affairs&#34;&gt;A Dismal State of Affairs&lt;/h2&gt;
 &lt;p&gt;The indifference that people show towards technology has always surprised me. By indifference, I do not mean a general lack of interest. It is quite evident that people like to use the latest technology if they ever have the means to and do prefer to invest a lot of time before purchasing any electronic product. However this interest is almost never sustained when it pertains to how technology itself operates. To an end user the only thing that matters if they purchase a smartphone or a laptop is its purpose. If it lets you click a good picture or browse the internet with reasonable efficiency what more is there to know?&lt;/p&gt;
@@ -176,8 +176,8 @@ You would most likely see an output quite similar to this:&lt;/p&gt;
     
     <item>
       <title>An Either/Or</title>
-      <link>https://noumenalnotions.space/essays/an_either_or/</link>
-      <guid>https://noumenalnotions.space/essays/an_either_or/</guid>
+      <link>http://localhost:1313/essays/an_either_or/</link>
+      <guid>http://localhost:1313/essays/an_either_or/</guid>
       <pubDate>Thu, 20 Feb 2025 22:13:59 IST</pubDate>
       <description>&lt;p&gt;I have been preoccupied with a morbid thought ever since I began writing about the limitations of human language. The fact that language sometimes falls shorts in expressing what we think and feel is by no means a novel idea. Philosophers, immemorially, have debated on the nature of human language and perhaps ironically have attempted to demonstrate through words how inadequate they can be. This realization is quite frightening, partly because it implies that regardless of how clearly or brilliantly we endeavour to express ourselves, the essential substance of our experience will remain within us, forever inaccessible to anyone outside our physical self.&lt;/p&gt;
 &lt;p&gt;However behind this peculiar idea, something even stranger was peering through. I have always conceived words and perhaps even thought itself to be categorical in nature. Words, to me, are a vessel of thought and through its utterance we differentiate human experience. By ascribing symbols to objects and communicating those symbols with each other, we attempt to share our experiences hoping atleast tentatively to bridge the gulf that separates one individual from another. But the purpose of words and as an extension of thought itself is to grasp something for what it is in its &amp;ldquo;totality&amp;rdquo;. We do not rest content with symbols themselves but through them always try to portray and infer the objects they represent. Through differentiation, we want to find that which is being differentiated.&lt;/p&gt;
@@ -188,8 +188,8 @@ You would most likely see an output quite similar to this:&lt;/p&gt;
     
     <item>
       <title>The Inconsistencies of Language</title>
-      <link>https://noumenalnotions.space/essays/the_inconsistencies_of_language/</link>
-      <guid>https://noumenalnotions.space/essays/the_inconsistencies_of_language/</guid>
+      <link>http://localhost:1313/essays/the_inconsistencies_of_language/</link>
+      <guid>http://localhost:1313/essays/the_inconsistencies_of_language/</guid>
       <pubDate>Wed, 29 Jan 2025 22:14:00 IST</pubDate>
       <description>&lt;p&gt;Language initially enters the purview of human experience as an instrument of communication. As toddlers, we experience the world around us while having very little means at our disposal to communicate the former. Any kind of articulation at that stage is often monosyllabic where the recipients of our incoherent babbles make all the effort to understand our intentions. Language in such a primitive form proves to be of little value because the need to understand is seldom matched by a clarity in expression. Although one could still derive meaning from them by either accounting for non verbal cues or placing words in their context, language still remains predominantly unilateral.&lt;/p&gt;
 &lt;p&gt;Without the aid of any formal training whatsoever, our use of language evolves from a mere expression of fundamental desires into a vessel for thought. Thought and language develop almost synonymously, each complementing and reinforcing the growth of the other. We become capable of comprehending complex symbolism and abstractions. Find ourselves correlating the meaning of fictional narratives to real life. We are, in a sense, transformed as the seed of language grows to its fruition, furnishing us with ever new means to not only express what we think and feel but also to peer into the minds of others who deign to do the same.&lt;/p&gt;
@@ -204,8 +204,8 @@ You would most likely see an output quite similar to this:&lt;/p&gt;
     
     <item>
       <title>How to set up weechat relay</title>
-      <link>https://noumenalnotions.space/blogs/weechat_relay/</link>
-      <guid>https://noumenalnotions.space/blogs/weechat_relay/</guid>
+      <link>http://localhost:1313/blogs/weechat_relay/</link>
+      <guid>http://localhost:1313/blogs/weechat_relay/</guid>
       <pubDate>Thu, 24 Oct 2024 09:01:16 IST</pubDate>
       <description>&lt;p&gt;So weechat is one among many clients that is used to connect to an irc network. Unlike other messaging platforms where you recieve a message that was sent to you even if you are not online, IRC functions in way that requires your client to constantly stay connected to the server to recieve messages. So if your user disconnects, you won&amp;rsquo;t be able to receive messages nor will you be able to access past messages that you sent in a particular channel. To circuvment this users often employ an irc bouncer like znc or soju that stays connected to an irc network and &amp;ldquo;bounces off&amp;rdquo; the messages it recieves when you connect to it using a client. Weechat affords its own kind of bouncer which is called a relay which provides similar functionalities.&lt;/p&gt;
 &lt;p&gt;In order to set up a weechat relay, you first require a server that has weechat installed. You can create an account in any tilde community if you require a free shell account. Once you have access to a server, you simply open weechat and add the servers you would like to connect to. For instance if you would like to connect to libera:&lt;/p&gt;
@@ -255,8 +255,8 @@ openssl req -x509 -nodes -newkey rsa:2048 -keyout relay.pem \
     
     <item>
       <title>Musings About the Devil</title>
-      <link>https://noumenalnotions.space/blogs/musings_about_the_devil/</link>
-      <guid>https://noumenalnotions.space/blogs/musings_about_the_devil/</guid>
+      <link>http://localhost:1313/blogs/musings_about_the_devil/</link>
+      <guid>http://localhost:1313/blogs/musings_about_the_devil/</guid>
       <pubDate>Fri, 03 May 2024 09:02:32 IST</pubDate>
       <description>&lt;p&gt;The world of today is not particularly concerned of antiquated ideas like angels or demons. From the contemporary point of view, anything that does not retain an objective existence which can be proved by methods of science are simply dismissed as the whims of human imagination. Such a frame of reference has always struck me as sensible because it grounds individuals on a plane of existence which, they know for a fact, to be true. However, I have also been exposed to a plethora of modern ideas, one of which is the notion of trauma.&lt;/p&gt;
 &lt;p&gt;Being a student of psychology, I have spent quite some time trying to understand the various ways trauma confines and hinders the will of an individual. Psychological literature records an array of illnesses ranging from anxiety disorders to OCD where the mind of a person is in constant battle with certain thoughts and ideas originating from within. Notwithstanding the fact that such illnesses merit proper treatment, I couldn&amp;rsquo;t help but noticing that there was often a tendency to associate the illness with the person itself.&lt;/p&gt;
@@ -268,8 +268,8 @@ openssl req -x509 -nodes -newkey rsa:2048 -keyout relay.pem \
     
     <item>
       <title>The Quest for Normalcy</title>
-      <link>https://noumenalnotions.space/essays/quest_for_normalcy/</link>
-      <guid>https://noumenalnotions.space/essays/quest_for_normalcy/</guid>
+      <link>http://localhost:1313/essays/quest_for_normalcy/</link>
+      <guid>http://localhost:1313/essays/quest_for_normalcy/</guid>
       <pubDate>Sat, 09 Mar 2024 22:14:00 IST</pubDate>
       <description>&lt;p&gt;With each passing day, I find myself increasingly confronted with valid reasons as to why psychology is an essentially doomed enterprise. It is evidently quite paradoxical for a student of psychology to feel this way but what perplexes me even more is why such a question does not often arise in the minds of individuals who pursue this discipline. Unlike other endeavours whose object of study lends itself very well to empirical scrutiny, psychological inquiry attempts to categorize something which, by its very nature, resists definition. The workings of our mind are always veiled by our inclination towards self analysis, and only reveals itself in its disintegration. This is perhaps why the phenomenon of mental illness has informed much of our knowledge regarding the psyche because pathology allows us to investigate the dark recesses of the human mind which is always concealed in its functional counterpart.&lt;/p&gt;
 &lt;p&gt;Freud, for instance, conceived an entire theory of personality through his attempt to cure patients afflicted with hysteria. His investigation into the various psychological afflictions of his clientele created an opportunity where he could peer through the pretense of our modern tastes and sensibilities only to find that the mind was still under the sway of primordial instincts. Notwithstanding the insights such analysis has furnished whose influence is perhaps yet to be determined, it still suffers from a grave misconception. The reason a significant part of Freud&amp;rsquo;s understanding is now subject to disagreement is because his theoretical premise is derived from an investigation of pathology. A pathological mind, as much as it reveals all that which was formerly inexplicable, also distorts our perception of the very mechanism it renders evident.&lt;/p&gt;
@@ -283,8 +283,8 @@ openssl req -x509 -nodes -newkey rsa:2048 -keyout relay.pem \
     
     <item>
       <title>Correspondent Inference</title>
-      <link>https://noumenalnotions.space/blogs/correspondent_inference/</link>
-      <guid>https://noumenalnotions.space/blogs/correspondent_inference/</guid>
+      <link>http://localhost:1313/blogs/correspondent_inference/</link>
+      <guid>http://localhost:1313/blogs/correspondent_inference/</guid>
       <pubDate>Tue, 27 Feb 2024 09:02:14 IST</pubDate>
       <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;Hell is other people&amp;rdquo; - Sartre&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I have recently been thinking a fair bit about something called correspondent inference. It is essentially a concept in psychology that represents our proclivity to presume that a person&amp;rsquo;s overt behaviour represents stable personality traits. Although initially learning the concept didn&amp;rsquo;t precipitate any kind of reflection, I seem to have suddenly become aware of how often we do that to each other and perhaps even to ourselves.&lt;/p&gt;
@@ -296,8 +296,8 @@ openssl req -x509 -nodes -newkey rsa:2048 -keyout relay.pem \
     
     <item>
       <title>Thoughts on Normalcy</title>
-      <link>https://noumenalnotions.space/blogs/thoughts_on_normalcy/</link>
-      <guid>https://noumenalnotions.space/blogs/thoughts_on_normalcy/</guid>
+      <link>http://localhost:1313/blogs/thoughts_on_normalcy/</link>
+      <guid>http://localhost:1313/blogs/thoughts_on_normalcy/</guid>
       <pubDate>Wed, 21 Feb 2024 09:02:22 IST</pubDate>
       <description>&lt;p&gt;With each passing day, I find myself confronted with increasingly valid reasons as to why psychology is a doomed enterprise. It is evidently quite paradoxical for a student of psychology to feel this way but what perplexes me even more is why such reasons generally do not foster thoughtful deliberation. One question that has recently occupied my mind pertains to the task of establishing normalcy within psychology.&lt;/p&gt;
 &lt;p&gt;It appears to me that, normalcy in the hard sciences is relatively simple to determine. For instance with the case of polydactyly which refers to the condition of having more than five fingers, it only takes mere comparison to understand why that particular condition is pathological. Since the majority of the population only have five fingers any deviations from that norm becomes abnormal. In line with simple observation, pathology seems to correspond to the degree to which a condition varies from the mean of the population.&lt;/p&gt;
@@ -309,8 +309,8 @@ openssl req -x509 -nodes -newkey rsa:2048 -keyout relay.pem \
     
     <item>
       <title>Vinland Saga: Breaking Free from Causality</title>
-      <link>https://noumenalnotions.space/essays/vinland_saga/</link>
-      <guid>https://noumenalnotions.space/essays/vinland_saga/</guid>
+      <link>http://localhost:1313/essays/vinland_saga/</link>
+      <guid>http://localhost:1313/essays/vinland_saga/</guid>
       <pubDate>Sun, 07 Jan 2024 22:14:01 IST</pubDate>
       <description>&lt;p&gt;It is always difficult to articulate why it is that a work of art leaves a lasting impression on those who witness it. Although you can try to explain such an abiding influence by deconstructing its various elements some of which in this case happens to be the extremely well woven characters, the handling of the complex dynamic between them, the amount of precision dedicated towards their history and most importantly the breathtaking story we see unfold between a son and a father. Vinland Saga is definitely impressive for all these reasons but I believe there comes a point where it becomes more than just a cocktail of greatness.&lt;/p&gt;
 &lt;p&gt;The narrative, as it unravels, places Thorfinn amidst an especially violent setting. Being the son of a great warrior and raised in the throes of consuming revenge alongside his father’s murderer, Thorfinn spends most of his formative years learning how to kill. His unwavering persistence in avenging his father is at the center of a metamorphosis which transforms Thorfinn from a naive curious little kid whose eyes gleam with awe and wonder into a bloodthirsty creature lusting for vengeance. As much as it is heartbreaking to see Thorfinn become all that his father did not want him to be, it paradoxically also forms the prerequisite for understanding a rather cryptic sentence “You have no enemies”.&lt;/p&gt;
@@ -327,8 +327,8 @@ openssl req -x509 -nodes -newkey rsa:2048 -keyout relay.pem \
     
     <item>
       <title>Religious Ruminations</title>
-      <link>https://noumenalnotions.space/essays/religious_ruminations/</link>
-      <guid>https://noumenalnotions.space/essays/religious_ruminations/</guid>
+      <link>http://localhost:1313/essays/religious_ruminations/</link>
+      <guid>http://localhost:1313/essays/religious_ruminations/</guid>
       <pubDate>Thu, 29 Dec 2022 22:14:00 IST</pubDate>
       <description>&lt;p&gt;Any preoccupation with the religious understanding of our time will often lead one to conclude that efforts directed towards its appraisal is much well spent in more lucrative endeavors. This instant disenchantment occasioned by the pragmatic outlook of modernity has caused a lot of individuals to drift away from value systems of the past and has prompted them to strike new paths in hopes of creating their own meaning in life. But on theother hand there also those who find contemporary times to be shallow and superficial in its attempt to offer purpose and resort to religious values of antiquity hoping to find what they had somehow lost in the course of their secular development. Both of these extremes are accompanied by their own tribulations and the polarizing rhetoric of our time appears to have widened the chasm that already exists between them. The former ascribing precedence to the autonomy of the human will while the latter in its predominant mode of expression seeking to subjugate volition through the postulation of divine providence. Both of these Weltanschauung has come to characterize contemporary religious and political discourse , vying to prove that the other side of the aisle is not only oblivious to the havoc wreaked by its ideological frame of reference but also willfully blind to the stultification of its exponents. I shall perhaps try to examine what motivations predisposes one to reject either of these alternatives and also in rare cases try to reconcile them.&lt;/p&gt;
 &lt;p&gt;As a child I had spent most of my formative years in the auspices of a religious school which, although seemingly aspired to engender critical thought, had been overly stringent in its attempt to ensure that none of us were exposed to perspectives that would prompt one to question the theological foundations of our religion. It was assumed to be proven beyond a shadow of doubt that not only do these values represent God&amp;rsquo;s will and his supreme guidance bestowed upon mankind but also that our understanding of them were inerrant and in need of no reform. Perhaps they had thought it was prudent to shield us from predicaments which would have precipitated a crisis in faith given our feeble convictions but only at the expense of ruthlessly suppressing all forms of dissent from the religious status quo. I had come to notice that any kind responsibility they had felt to foster a genuine motivation to discover the truth was triumphed by an unswerving fidelity to defend their religion against external censure. The values they had sought to defend notwithstanding the immense scope and magnitude of their wisdom somehow in the process of their dogmatization had come to exercise a rather stultifying influence on those who believed in them. But is it reasonable to ascribe this influence to the values themselves? &lt;/p&gt;
@@ -344,8 +344,8 @@ openssl req -x509 -nodes -newkey rsa:2048 -keyout relay.pem \
     
     <item>
       <title>On The Nature of Dreams</title>
-      <link>https://noumenalnotions.space/essays/on_the_nature_of_dreams/</link>
-      <guid>https://noumenalnotions.space/essays/on_the_nature_of_dreams/</guid>
+      <link>http://localhost:1313/essays/on_the_nature_of_dreams/</link>
+      <guid>http://localhost:1313/essays/on_the_nature_of_dreams/</guid>
       <pubDate>Mon, 04 Apr 2022 22:14:00 IST</pubDate>
       <description>&lt;p&gt;The nature of dreams has always eluded psychologists ever since the human psyche and all its manifestations were subject to the scrutiny of scientific thinking. In the past, the application of empirical methods in the appraisal of mental phenomena seemed obsolete given the prevalent notion that there was nothing novel to be discovered in the frontier of the human mind since the contents of the former were supposedly identical with the materials of consciousness. The existence of a terra incognita within the domain of psychological processes was neither speculated nor ascribed much credence for men were too fond of the idea that they were ‘masters of their own houses’. But in light of the discovery of the unconscious as an elementary factor of the human psyche and its supreme significance in the determination of the true meaning of psychic phenomena, this ill conceived notion that all mental processes were encapsulated by the horizon of consciousness was soon to be shown as utterly insufficient in accounting for the facts unearthed in the investigation of neurotic disorders and as a consequence evinced the presence of influences which escaped the narrow scope of conscious ideation.&lt;/p&gt;
 &lt;p&gt;Nonetheless the concept of the unconscious is still greeted with ridicule and mockery in circles that are inclined to reduce all forms of psychological suffering to physiological processes whose subtle nature is held responsible for obscuring our assumption of an organic cause to these afflictions. It went against all medical convention to even entertain an assumption to the contrary since what else could possibly give rise to such strange illnesses? Surely all of these forms of mental afflictions one way or another must emanate from a deformity of the brain or some other biological predicate whose seemingly absent nature doesn’t necessarily entail its non existence. To attribute the cause of such maladies to something as nebulous as the human psyche and its strange inner mechanisms strikes us as odd for it appears to depart from the sober tradition of empiricism with which the scientific community and all of its factions are intimately acquainted with. Nonetheless the consistent failure to demonstrate that all forms of psychological afflictions can exclusively be reduced to a somatic origin leads one to suggest that either our understanding of brain physiology is woefully limited or perhaps the content of our own minds are not as transparent as we assume them to be.&lt;/p&gt;
@@ -361,8 +361,8 @@ openssl req -x509 -nodes -newkey rsa:2048 -keyout relay.pem \
     
     <item>
       <title>A Requiem for The Past</title>
-      <link>https://noumenalnotions.space/essays/a_requiem_for_the_past/</link>
-      <guid>https://noumenalnotions.space/essays/a_requiem_for_the_past/</guid>
+      <link>http://localhost:1313/essays/a_requiem_for_the_past/</link>
+      <guid>http://localhost:1313/essays/a_requiem_for_the_past/</guid>
       <pubDate>Tue, 13 Jul 2021 22:13:59 IST</pubDate>
       <description>&lt;p&gt;Among all the prolific intellectuals who had come to exercise a decisive influence on my opinions, it was Carl Jung, most of all, whom I had profoundly admired for his remarkable felicity and astounding erudition. At the very outset of acquainting myself with his brilliant corpus, the fact that he spoke of archaic literature as though they were of the utmost relevance to the present era seemed exceedingly strange for a young liberal like myself. I have always held the opinion that the past was merely a store house of the failures of our forefathers and that there was no utility whatsoever in sifting through those seemingly nonsensical texts to find hidden wisdom that could supposedly deliver us from human follies. I did acknowledge the fact that our ancestors had made some contributions to the success of our civilizations but how could they possibly assert anything of relevance ten or twenty years from their inevitable demise?&lt;/p&gt;
 &lt;p&gt;To my modern sensibilities it seemed extremely far fetched and perhaps even absolutely ludicrous to suggest the idea that the contemporary questions humanity struggles with could be answered if instead of looking far ahead into the future one looked far back into the past. That theologians and philosophers who lived in immemorial times that were primarily characterized by ignorance and primitive superstitions magically stumbled upon perennial wisdom which if lost would ensure our own peril. Jung however firmly believed that the ghost of our ancestors had a lot more to teach even after their morbid dissolution and dedicated most of his life in the pursuit of archaic knowledge so that he can listen to their faint wailings.&lt;/p&gt;
@@ -386,8 +386,8 @@ openssl req -x509 -nodes -newkey rsa:2048 -keyout relay.pem \
     
     <item>
       <title>The Allure to Darkness</title>
-      <link>https://noumenalnotions.space/essays/the_allure_to_darkness/</link>
-      <guid>https://noumenalnotions.space/essays/the_allure_to_darkness/</guid>
+      <link>http://localhost:1313/essays/the_allure_to_darkness/</link>
+      <guid>http://localhost:1313/essays/the_allure_to_darkness/</guid>
       <pubDate>Wed, 31 Mar 2021 22:14:00 IST</pubDate>
       <description>&lt;p&gt;&lt;em&gt;&amp;ldquo;That is not dead which can eternal lie and with strange aeons even death may die&amp;rdquo;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;I have never considered myself as a person with morbid inclinations until I chanced upon these lines while reading H.P Lovecraft&amp;rsquo;s most renowned Gothic novella, The Call of Cthullu. One of the first things that made an impression upon me about Lovecraft was the irony in his name since love is supposed to be the polar opposite of anything that could be deemed as grotesque or unnatural. Nonetheless, this misgiving rapidly gave way once I realised his literal ingenuity. Within a few minutes into the book, I found his literary prose to be oddly captivating for some reason. It was as though using his words, he was capable of arousing the most terrifying images humanly conceivable in the readers&amp;rsquo; mind with exceptional clarity but in the process fettered one with chains of curiosity that rendered any chances of putting down the book, highly implausible. At first, it proved to be quite difficult and tiresome to understand his convoluted sentences refined for aesthetic appeal but with a little amount of perseverance I became extremely fond of his prosaic style and managed to breeze through his sentences with almost no effort. Finishing the book within a few hours, I seemed to have been overwhelmed by a queer sense of nostalgia while wondering how the utterly terrifying things that I just read could exercise such a magical influence on someone who’s always despised any work of horror most of his life. Among the innumerable Gothic fiction produced for entertainment, it seemed to me that the Lovecraftian universe did not possess any distinctive characteristics that would set it apart from the rest of its counterparts but soon after, I became quite convinced that this analysis was painfully superficial and that the object of its criticism warranted a much more diligent scrutiny.&lt;/p&gt;

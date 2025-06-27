@@ -13,3 +13,6 @@ Hello! I go by the username mindhunter or my psuedonym Phaedrus. This is a perso
 
 A significant majority of the internet you now see is filled with ads, javascript and AI Slop  designed solely for the purpose of hogging your attention. The Smol Web is a resistance against  this monpolizing where users bring back the spirit of the old internet by creating personal websites and sharing ideas through blogs. 
 
+---------------------------------
+
+
