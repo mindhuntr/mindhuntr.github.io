@@ -5,7 +5,7 @@ title = 'Home Page'
 
 # Welcome!
 
-Hello! I go by the username mindhunter or my psuedonym Phaedrus. This is a personal website where I intend to regularly publish my works. I also have a gemini capusle on ctrl-c.club where I post the same content.
+Hello! I go by the username mindhunter or my psuedonym Phaedrus. This is a personal website where I intend to regularly publish my works. I also have a gemini capusle on [ctrl-c.club](https://ctrl-c.club) where I post the same content.
 
 
 -------------------
