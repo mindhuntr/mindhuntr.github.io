@@ -4,6 +4,7 @@ title = 'Noumenal Notions'
 theme = 'terminal'
 publishDir = 'docs'
 
+
 [[menu.main]]
 identifier = "blogs"
 name = "Blog"
@@ -33,6 +34,7 @@ themeColor = "red"
 showMenuItems = 4
 mainSections = [ "blogs", "essays", "about" ]
 autoCover = true
+favicon = "favicon.ico"
 readingTime = true
 
 
