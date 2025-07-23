@@ -1,0 +1,18 @@
++++
+date = '2025-07-23T13:56:03+05:30'
+title = 'The Hum of Doing'
+description = 'Reflecting on the modern way of life'
+tags = ['musings']
++++
+
+Ever since my departure from institutions of formal learning, my concern for academics had slowly waned and withered. I have not met anyone who likes examinations or assessments, not even those who excel in them. It is almost unanimously perceived as tedious and even the best of students would likely prefer another mode of evaluation. Despite its short sightedness and its attempt to reduce students to a quantitative measure, examinations still remain as the prevalent means through which we judge qualification and merit. Although I have reached a point in my life where I wouldn't have to take any more of these, at least within the confines of academics, it still bothers me in some ways. 
+
+It was evident that this abiding concern had only little to do with the distress academia had caused me. In a test, I had always felt that I was constantly put in a position to prove my worth. To justify what pragmatic utility my existence had ultimately served. As much as everyone would agree such quantitative measures are woefully inadequate at even judging a phenomenon, let alone a person, we are still forced to contrive one out of necessity. Only numbers and magnitudes can inform action. And given the fact that we exist within a culture that views dissent from ceaseless doing as failure, we strive to be engaged. To compete and out do each other in whatever ways that are presented to us. 
+
+Academic evaluation remains as a thorn on my side because in some sense it revealed a dangerous tendency that I have since observed everywhere. The obsession of means over ends. Examinations and by extension even the entire educational edifice exists to enlighten individuals. And any numerical quantity is only meaningful in so far it measures what it intends to. But within academia, I could observe that any quantitative measure which is supposed to be nothing more than a symbol of knowledge appeared to take a life of its own. And as the symbol became increasingly detached from what it signified, it only referenced itself. So every pursuit within academia, became to me, a pursuit of quantity. A relentless attempt to conquer and relish what is ultimately a hollow symbol at the expense of true knowledge. 
+
+I had for a very long time accepted this as normalcy until my hiatus from institutions. Being in a position, for the first time, to reflect clearly I soon realized how fundamentally rotten and soulless the process of learning I had hitherto adopted truly was. But I also observed that this seemingly isolated problem pervaded almost all facets of life. I could see the far reaching influence of such hollow symbols everywhere from science to politics. Every human endeavour, every decision and mode of thought ultimately became enslaved to the deafening hum of doing. It no longer mattered to anyone "why" one must do but just rather "how" well you can do it. As I struggled to place myself in this world, pursuing interests and desires which had always emphasized the why, I found myself invariably drowned by the ceaseless motion of the world around me. 
+
+The means and methods we had devised to make life better have now paradoxically possessed it. Movement is now the primary preoccupation of life and all that matters is your contribution to the endless march of civilization. Swept by the tide of progress and the usurpation of means over ends, we are left chasing hollow symbols as we become hollow ourselves. 
+
+
