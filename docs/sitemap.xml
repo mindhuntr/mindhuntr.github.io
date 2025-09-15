@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://noumenalnotions.space/essays/</loc>
+    <lastmod>2025-09-15T09:56:33+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/philosophy/</loc>
+    <lastmod>2025-09-15T09:56:33+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/tags/</loc>
+    <lastmod>2025-09-15T09:56:33+05:30</lastmod>
+  </url><url>
+    <loc>https://noumenalnotions.space/essays/the_gordian_knot/</loc>
+    <lastmod>2025-09-15T09:56:33+05:30</lastmod>
+  </url><url>
     <loc>https://noumenalnotions.space/blogs/</loc>
     <lastmod>2025-07-23T13:56:03+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/tags/musings/</loc>
-    <lastmod>2025-07-23T13:56:03+05:30</lastmod>
-  </url><url>
-    <loc>https://noumenalnotions.space/tags/</loc>
     <lastmod>2025-07-23T13:56:03+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/blogs/the_hum_of_doing/</loc>
@@ -35,13 +44,7 @@
     <loc>https://noumenalnotions.space/tags/art/</loc>
     <lastmod>2025-05-18T13:06:44+05:30</lastmod>
   </url><url>
-    <loc>https://noumenalnotions.space/essays/</loc>
-    <lastmod>2025-05-18T13:06:44+05:30</lastmod>
-  </url><url>
     <loc>https://noumenalnotions.space/essays/on_the_necessity_of_mediation/</loc>
-    <lastmod>2025-05-18T13:06:44+05:30</lastmod>
-  </url><url>
-    <loc>https://noumenalnotions.space/tags/philosophy/</loc>
     <lastmod>2025-05-18T13:06:44+05:30</lastmod>
   </url><url>
     <loc>https://noumenalnotions.space/about/</loc>
