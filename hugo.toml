@@ -24,22 +24,27 @@ url = "/about/"
 weight = 1
 
 [[menu.main]]
+identifier = "poetry"
+name = "Poetry"
+url = "/poetry/"
+weight = 1
+
+[[menu.main]]
 identifier = "software"
 name = "Software"
 url = "/software/"
 weight = 1
 
-
 [[menu.main]]
- identifier = "rss"
- name = "RSS"
- url = "/index.xml"
- weight = 99
+identifier = "rss"
+name = "RSS"
+url = "/index.xml"
+weight = 99
 
 [params] 
 themeColor = "red"
 showMenuItems = 6
-mainSections = [ "blogs", "essays", "about" ]
+mainSections = [ "blogs", "essays", "poetry", "about" ]
 autoCover = true
 favicon = "favicon.ico"
 readingTime = true
