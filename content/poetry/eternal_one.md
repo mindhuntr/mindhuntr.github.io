@@ -11,10 +11,10 @@ Through words I utter in unison
 As I struggle to keep thee in me\
 I lose myself, perpetually, in reverie 
 
-Underneath the beauty of sonnets I see thine stride\
+Underneath the beauty of sonnets I see thy stride\
 Between sound and rhythm thou holds the divide 
 
-Embrasures, I sculpt, to beckon thine love\
+Embrasures, I sculpt, to beckon thy love\
 That radiates through time or lack thereof
 
 Bewildered, I beseech thee\
