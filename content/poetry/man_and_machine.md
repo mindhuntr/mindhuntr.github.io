@@ -1,7 +1,7 @@
 +++
 date = '2026-03-15T12:19:50+05:30'
 title = 'Man & Machine'
-description = 'A poem'
+description = 'To be or to do?'
 +++
 
 Bewitched by the machine\
