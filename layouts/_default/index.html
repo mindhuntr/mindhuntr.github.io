@@ -8,7 +8,7 @@
   <div class="posts">
     <h2 class="latest-posts-header">Latest Posts</h2>
 
-    {{ $sections := slice "blogs" "essays" }}
+    {{ $sections := slice "blogs" "essays" "poetry" }}
     {{ $pages := where .Site.RegularPages "Type" "in" $sections }}
     {{ $sortedPages := sort $pages "Date" "desc" }}
     {{ range first 3 $sortedPages }}
