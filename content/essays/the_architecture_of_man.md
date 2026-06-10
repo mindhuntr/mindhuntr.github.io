@@ -2,6 +2,7 @@
 title = 'The Architecture of Man'
 date = '2026-06-10T08:31:26+05:30'
 description = 'On the divisions of modernity' 
+image = 'img/architecture_of_man.jpg'
 tags = ['philosophy']
 +++
 
