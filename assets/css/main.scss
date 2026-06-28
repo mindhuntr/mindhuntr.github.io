@@ -357,3 +357,19 @@ figure figcaption {
   justify-content: center !important;
   align-items: center !important;
 } 
+
+.header__logo::after {
+  content: '';
+  background: repeating-radial-gradient(
+    circle at left center,
+    var(--accent) 0,
+    var(--accent) 1px,
+    transparent 4px,
+    transparent 7px
+  );
+  background-size: 19px 100%;
+  background-repeat: repeat-x;
+  display: block;
+  width: 75%;
+  height: 35px;
+}
