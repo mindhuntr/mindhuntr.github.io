@@ -97,11 +97,11 @@
     <ul class="menu__dropdown">
       
         
-          <li><a href="/about/">About</a></li>
+          <li><a href="/index.xml">RSS</a></li>
         
       
         
-          <li><a href="/blogs/">Blog</a></li>
+          <li><a href="/about/">About</a></li>
         
       
         
@@ -113,11 +113,11 @@
         
       
         
-          <li><a href="/software/">Software</a></li>
-        
-      
-        
-          <li><a href="/index.xml">RSS</a></li>
+          
+            <li><a href="/blogs/" >Blog</a></li>
+          
+            <li><a href="/software/" >Software</a></li>
+          
         
       
       
@@ -135,7 +135,15 @@
       
         
           
-              <li><a href="/about/" >About</a></li>
+              <li style="margin-left:auto; align-items: bottom;">
+                <a href="/index.xml"  style="display: flex; align-items: center;">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: inline-block; align-items: bottom;">
+                    <path d="M4 11a9 9 0 0 1 9 9" />
+                    <path d="M4 4a16 16 0 0 1 16 16" />
+                    <circle cx="5" cy="19" r="1" />
+                  </svg>
+                </a>
+              </li>
             
             </a>
           </li>
@@ -143,7 +151,7 @@
       
         
           
-              <li><a href="/blogs/" >Blog</a></li>
+              <li><a href="/about/" >About</a></li>
             
             </a>
           </li>
@@ -166,27 +174,24 @@
         
       
         
-          
-              <li><a href="/software/" >Software</a></li>
-            
-            </a>
-          </li>
-        
-      
-        
-          
-              <li style="margin-left:auto; align-items: bottom;">
-                <a href="/index.xml"  style="display: flex; align-items: center;">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="display: inline-block; align-items: bottom;">
-                    <path d="M4 11a9 9 0 0 1 9 9" />
-                    <path d="M4 4a16 16 0 0 1 16 16" />
-                    <circle cx="5" cy="19" r="1" />
-                  </svg>
-                </a>
-              </li>
-            
-            </a>
-          </li>
+        <li>
+          <ul class="menu">
+            <li class="menu__trigger">
+              
+                More&nbsp;▾
+              
+            </li>
+            <li>
+              <ul class="menu__dropdown">
+                
+                  <li><a href="/blogs/" >Blog</a></li>
+                
+                  <li><a href="/software/" >Software</a></li>
+                  
+              </ul>
+            </li>
+          </ul>
+        </li>
         
       
       
@@ -440,6 +445,13 @@
 
   
     <footer class="footer">
+  <div class="footer__inner">
+    
+      <div class="copyright">
+        <span>© Noumenal Notions 2026</span>
+    
+      </div>
+  </div>
 </footer>
 
 

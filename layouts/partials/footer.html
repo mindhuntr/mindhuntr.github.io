@@ -1,4 +1,14 @@
 <footer class="footer">
+  <div class="footer__inner">
+    {{ if $.Site.Params.Copyright }}
+      <div class="copyright copyright--user">
+        <span>{{ $.Site.Params.Copyright | safeHTML }}</span>
+    {{ else }}
+      <div class="copyright">
+        <span>© Noumenal Notions {{ now.Year }}</span>
+    {{ end }}
+      </div>
+  </div>
 </footer>
 
 {{ $menu := resources.Get "js/menu.js" | js.Build }}
