@@ -23,3 +23,7 @@ These are some of the softwares I use:
 | Music Player         | [rmpc](https://github.com/mierak/rmpc)                        |
 | Feed Reader          | [newsraft](https://codeberg.org/newsraft/newsraft)            |
 
+
+# Home Setup 
+
+![Home](/img/home.png)
