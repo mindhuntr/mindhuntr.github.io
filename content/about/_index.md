@@ -1,6 +1,6 @@
 +++
+title = 'About'
 date = '2025-05-15T20:58:26+05:30'
-title = 'About Page'
 +++
 
 I am a student of psycholgy who is also equally fascinated by computers. I stumbled upon Linux a few years ago and soon became immersed in its world where I discovered many things pertaining to the internet and how technology itself has evolved, in some ways, to our deteriment. I write to explore these problems and many other things I have discovered since. 

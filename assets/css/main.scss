@@ -444,3 +444,9 @@ figure figcaption {
     display: inline-block;
   }
 }
+
+.cards-list .post-card:first-child {
+  @media (max-width: $phone) {
+    margin-top: 2rem;
+  }
+}
