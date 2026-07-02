@@ -54,6 +54,7 @@ mainSections = [ "blogs", "essays", "poetry", "about" ]
 autoCover = true
 favicon = "favicon.ico"
 readingTime = true
+readMore = "Read"
 
 [languages.en.params.logo]
 logoText = "Noumenal Notions"
