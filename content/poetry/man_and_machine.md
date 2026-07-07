@@ -1,6 +1,7 @@
 +++
 date = '2026-03-15T12:19:50+05:30'
 title = 'Man & Machine'
+tags = ['musings']
 description = 'To be or to do?'
 +++
 
