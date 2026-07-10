@@ -38,6 +38,10 @@ body {
   }
 }
 
+nav > ul > li:first-child { 
+  margin-left: auto;
+}
+
 .headings--one-size {
   h1,
   h2,
@@ -362,6 +366,32 @@ sup {
 figure figcaption { 
   background: transparent;
 } 
+
+.footer { 
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.footer-icons { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 1.2rem;
+  gap: 2rem;
+  font-weight: 600;
+} 
+
+.footer-icons a { 
+  transition: transform 0.25s ease, border-color 0.25s ease;
+} 
+
+.footer-icons a:hover {
+  transform: translateY(-4px);
+  color: var(--accent);
+}
 
 .footer .copyright { 
   justify-content: center !important;
