@@ -11,7 +11,8 @@
 
 </head>
 <body class="{{- ( or .Params.color $.Site.Params.ThemeColor ) -}}">
-<img src="/img/top_left_vine.svg" alt="" style="position:fixed;top:0;left:0;z-index:-10;pointer-events:none;width:300px;height:auto">
+<img src="/img/vines/top_vine.svg" alt="" class="top-left-vine">
+<img src="/img/vines/top_vine.svg" alt="" class="top-right-vine">
 {{ if .Site.Params.Banner }}
   {{ with .Site.Params.Banner }}
     <div id="banner">

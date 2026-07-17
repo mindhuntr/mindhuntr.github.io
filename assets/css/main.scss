@@ -508,3 +508,52 @@ figure figcaption {
     z-index: 2;
   }
 }
+
+.top-left-vine {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -10;
+  pointer-events: none;
+  width: 600px;
+  height: auto;
+
+  opacity: 0.6;
+
+  @media (max-width: 1500px) { 
+    display: none;
+  }
+}
+
+.top-right-vine {
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: -10;
+  pointer-events: none;
+  width: 600px;
+  height: auto;
+  transform: scaleX(-1);
+
+  opacity: 0.6;
+
+  @media (max-width: 1500px) { 
+    display: none;
+  }
+}
+
+.bottom-left-vine {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  z-index: -10;
+  pointer-events: none;
+  width: 600px;
+  height: auto;
+
+  opacity: 0.6;
+
+  @media (max-width: 1500px) { 
+    display: none;
+  }
+}
