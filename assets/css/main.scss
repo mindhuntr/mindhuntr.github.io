@@ -433,11 +433,19 @@ figure figcaption {
   flex-direction: column;
   transition: transform 0.25s ease, border-color 0.25s ease;
 
+
   &:hover {
     transform: translateY(-4px);
     border-color: var(--accent);
   }
 
+  &::after {
+    transition: opacity 0.25s ease;
+  }
+
+  &:hover::after {
+    opacity: 0.8;
+  }
 }
 
 .post-card--essays::after {
