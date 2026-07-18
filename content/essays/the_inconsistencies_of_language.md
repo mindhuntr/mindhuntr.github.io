@@ -1,7 +1,7 @@
 +++
 date = '2025-01-29T22:14:00+05:30'
 title = 'The Inconsistencies of Language'
-description = "Isn't the separation that divides individuals also the separation that defines us?"
+description = "Isn't what divides individuals also what defines us?"
 tags = ['philosophy']
 +++
 

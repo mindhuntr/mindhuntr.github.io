@@ -1,7 +1,7 @@
 +++
 date = '2025-04-16T21:45:26+05:30'
 title = 'That Which We Seek'
-description = 'Why did I often reach a point where language and rationality ceased to be the luminaries they once were?'
+description = 'Where language and rationality ceased to be luminaries'
 tags = ['philosophy']
 +++
 

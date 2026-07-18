@@ -1,7 +1,7 @@
 +++
 date = '2025-02-20T22:13:59+05:30'
 title = 'An Either/Or'
-description = 'Every human endeavour is a constant striving to negate form through form'
+description = 'Human endeavour is a striving to negate form through form'
 tags = ['philosophy']
 +++
 

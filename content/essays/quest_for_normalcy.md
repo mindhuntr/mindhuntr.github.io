@@ -1,7 +1,7 @@
 +++
 date = '2024-03-09T22:14:00+05:30'
 title = 'The Quest for Normalcy'
-description = 'Psychology is too consumed by navigating the labyrinth of causality'
+description = 'Navigating the labyrinth of causality'
 tags = ['psychology']
 +++
 

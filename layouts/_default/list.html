@@ -6,7 +6,7 @@
   {{ end }}
   <div class="cards cards-list">
     {{ range .Paginator.Pages }}
-      <article class="post-card">
+      <article class="post-card post-card--{{ .Section }}">
         <a href="{{ .RelPermalink }}" class="post-card-link" aria-label="{{ .Title }}"></a>
         <h1 class="post-title">
           <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
