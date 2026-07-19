@@ -37,7 +37,7 @@ body {
   -webkit-text-size-adjust: 100%;
 
   @media (max-width: $phone) {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
   }
 }
 
@@ -410,10 +410,6 @@ figure figcaption {
   background: var(--accent);
   color: color-mix(in srgb, var(--accent), var(--accent-contrast-color) 90%);
   padding: 3px 10px;
-
-  @media (max-width: $phone) { 
-    padding: 5px 10px;
-  } 
 }
 
 .header__logo::after {
