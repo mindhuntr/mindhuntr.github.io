@@ -403,6 +403,19 @@ figure figcaption {
   align-items: center !important;
 } 
 
+.logo {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  background: var(--accent);
+  color: color-mix(in srgb, var(--accent), var(--accent-contrast-color) 90%);
+  padding: 3px 10px;
+
+  @media (max-width: $phone) { 
+    padding: 5px 10px;
+  } 
+}
+
 .header__logo::after {
   content: '';
   background: repeating-radial-gradient(
