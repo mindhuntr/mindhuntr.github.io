@@ -1,7 +1,5 @@
 <a href="{{ if $.Site.Params.Logo.LogoHomeLink }}{{ $.Site.Params.Logo.LogoHomeLink }}{{else}}{{ $.Site.BaseURL }}{{ end }}">
-  <div class="logo">
-    <i>
-      {{ with $.Site.Params.Logo.logoText }}{{ . }}{{ else }}re-Terminal{{ end }}
-    </i>
-  </div>
+<div class="logo-written">
+  <img src="/img/header.svg" alt="Logo">
+</div>
 </a>

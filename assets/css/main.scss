@@ -431,18 +431,25 @@ figure figcaption {
 
 .header__logo::after {
   content: '';
-  background: repeating-radial-gradient(
-    circle at left center,
-    var(--accent) 0,
-    var(--accent) 1px,
-    transparent 4px,
-    transparent 7px
-  );
-  background-size: 19px 100%;
-  background-repeat: repeat-x;
-  display: block;
-  width: 75%;
-  height: 35px;
+  display: none;
+}
+
+.logo-written {
+  display: flex;
+  align-items: center;
+
+  img {
+    height: 90px;
+    width: auto;
+    max-width: 100%;
+  }
+}
+.menu--mobile .menu__trigger {
+  border: none;
+  padding: 0 10px;
+  margin-left: 0;
+  font-size: 2rem;
+  line-height: 1;
 }
 
 .cards {
