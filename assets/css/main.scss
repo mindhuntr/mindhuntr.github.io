@@ -52,6 +52,10 @@ body.is-home::before {
   opacity: 0.13;
   pointer-events: none;
   z-index: -1;
+
+  @media (max-width: $phone) { 
+    background-size: 95%;
+  } 
 }
 
 nav > ul > li:first-child { 
