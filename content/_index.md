@@ -3,9 +3,9 @@ date = '2025-05-15T20:58:26+05:30'
 title = 'Home Page'
 +++
 
-# Welcome!
+# Introduction
 
-Hello! I go by the username mindhunter or my psuedonym Phaedrus. This is a personal website where I intend to regularly publish my works. I also have a gemini capusle on [ctrl-c.club](https://ctrl-c.club) where I post the same content.
+I am Irfan Jalal, a writer, programmer and recent graduate of pyschology. I am sometimes referred to as Phaedrus, a psuedonym I write under, or mindhunter in the relatively quieter parts of the internet. This is a personal website where I intend to publish my works.
 
 
 -------------------
