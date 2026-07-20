@@ -28,6 +28,7 @@ body {
   font-size: 1.2rem;
   line-height: 1.57;
   background: linear-gradient(180deg, var(--background), color-mix(in oklch, var(--background), var(--color-neon-dark)), var(--color-neon-dark));
+  // background: var(--color-neon-dark);
   color: var(--color);
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -39,6 +40,21 @@ body {
   @media (max-width: $phone) {
     font-size: 1.1rem;
   }
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: -20px;
+  left: -20px;
+  width: calc(100% + 40px);
+  height: calc(100% + 40px);
+  background: url('/img/vines/background_vines.svg') center repeat;
+  background-size: 25%;
+  filter: blur(4px);
+  opacity: 0.25;
+  pointer-events: none;
+  z-index: -1;
 }
 
 nav > ul > li:first-child { 
@@ -440,6 +456,7 @@ figure figcaption {
   box-sizing: border-box;
   border: 2px solid var(--border-color);
   padding: 3px 15px 8px 15px;
+  // background: var(--background);
   display: flex;
   flex-direction: column;
   transition: transform 0.25s ease, border-color 0.25s ease;
