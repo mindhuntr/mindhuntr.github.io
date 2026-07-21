@@ -443,6 +443,26 @@ figure figcaption {
     width: auto;
     max-width: 100%;
   }
+
+  .logo-small {
+    display: none;
+  }
+
+  .logo-default {
+    display: inline;
+  }
+
+  @media (max-width: $phone) {
+    .logo-default {
+      display: none;
+    }
+    .logo-small {
+      display: block;
+    }
+    .logo-written img {
+      height: auto;
+    }
+  }
 }
 .menu--mobile .menu__trigger {
   border: none;
