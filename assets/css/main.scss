@@ -508,10 +508,10 @@ figure figcaption {
   content: '';
   position: absolute;
   bottom: 0;
-  right: 0;
-  width: 400px;
+  right: -65px;
+  width: 280px;
   aspect-ratio: 3862 / 2266;
-  background: url('/img/vines/vine_bottom_left.svg') no-repeat bottom right;
+  background: url('/img/vines/essay_vine.svg') no-repeat bottom right;
   background-size: contain;
   pointer-events: none;
   opacity: 0.35;
@@ -519,7 +519,8 @@ figure figcaption {
   transform: scaleX(-1);
 
   @media (max-width: $phone) {
-    width: 220px;
+    right: -50px;
+    width: 190px;
   }
 
 }
@@ -531,7 +532,7 @@ figure figcaption {
   right: 0;
   width: 315px;
   aspect-ratio: 3862 / 2266;
-  background: url('/img/vines/vine_bottom_right.svg') no-repeat bottom right;
+  background: url('/img/vines/poetry_vine.svg') no-repeat bottom right;
   background-size: contain;
   pointer-events: none;
   opacity: 0.35;
@@ -550,7 +551,7 @@ figure figcaption {
   right: 0;
   width: 350px;
   aspect-ratio: 3862 / 2266;
-  background: url('/img/vines/top_vine.svg') no-repeat bottom right;
+  background: url('/img/vines/blog_vine.svg') no-repeat bottom right;
   background-size: contain;
   pointer-events: none;
   opacity: 0.35;
