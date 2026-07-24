@@ -49,12 +49,13 @@ body.is-home::before {
   height: calc(100% + 40px);
   background: url('/img/vines/background_vines.svg') center repeat;
   background-size: 35%;
-  opacity: 0.13;
+  opacity: 0.2;
   pointer-events: none;
   z-index: -1;
 
   @media (max-width: $phone) { 
     background-size: 95%;
+    opacity: 0.35;
   } 
 }
 
