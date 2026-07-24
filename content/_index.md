@@ -5,7 +5,7 @@ title = 'Home Page'
 
 # Introduction
 
-I am Irfan Jalal, a writer, programmer and recent graduate of pyschology. I am sometimes referred to as Phaedrus, a psuedonym I write under, or mindhunter in the relatively quieter parts of the internet. This is a personal website where I intend to publish my works.
+I am Irfan Jalal, a writer, programmer and graduate of pyschology. I am sometimes referred to as Phaedrus, a psuedonym I write under, or mindhunter in the relatively quieter parts of the internet. This is a personal website where I intend to publish my works.
 
 
 -------------------
