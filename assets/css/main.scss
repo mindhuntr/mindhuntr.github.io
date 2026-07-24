@@ -463,12 +463,15 @@ figure figcaption {
     .logo-written img {
       height: auto;
     }
+
+    img {
+      max-width: 105%;
+    }
   }
 }
 .menu--mobile .menu__trigger {
   border: none;
-  padding: 0 10px;
-  margin-left: 0;
+  margin-left: 20px;
   font-size: 2rem;
   line-height: 1;
 }
